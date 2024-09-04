@@ -88,13 +88,13 @@ function BookingSection() {
                         ₹ 5,555
                       </div>
                     </div> */}
-                    <div className="flex items-center mt-2 flex-col">
+                    {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center text-nowrap rounded-full">
                         <p className="line-through">₹ 5,555</p>
                         <p>25% off</p>
                         ₹ 4,166.25
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
@@ -158,13 +158,13 @@ function BookingSection() {
                         ₹ 7,777
                       </div>
                     </div> */}
-                    <div className="flex items-center mt-2 flex-col">
+                    {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center text-nowrap rounded-full">
                         <p className="line-through">₹ 7,777</p>
                         <p>25% off</p>
                         ₹ 5,832.75
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
@@ -227,13 +227,13 @@ function BookingSection() {
                         ₹ 8,888
                       </div>
                     </div> */}
-                    <div className="flex items-center mt-2 flex-col">
+                    {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center text-nowrap rounded-full">
                         <p className="line-through">₹ 8,888</p>
                         <p>25% off</p>
                         ₹ 6,666
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
@@ -296,13 +296,13 @@ function BookingSection() {
                         ₹ 5,555
                       </div>
                     </div> */}
-                    <div className="flex items-center mt-2 flex-col">
+                    {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                         <p className="line-through">₹ 5,555</p>
                         <p>25% off</p>
                         ₹ 4,166.25
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
@@ -365,13 +365,13 @@ function BookingSection() {
                         ₹ 2,222
                       </div>
                     </div> */}
-                    <div className="flex items-center mt-2 flex-col">
+                    {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                         <p className="line-through">₹ 2,222</p>
                         <p>25% off</p>
                         ₹ 1,666.50
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
@@ -434,17 +434,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h2 className="text-center">2 Sittings</h2>
+                      {/* <h2 className="text-center">2 Sittings</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 8,888
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 8,888</p>
                           <p>25% off</p>
                           ₹ 6,666
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -504,17 +504,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h2 className="font-semibold text-center">(1 Month)</h2>
+                      {/* <h2 className="font-semibold text-center">(1 Month)</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full ">
                         ₹ 33,333
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 33,333</p>
                           <p>25% off</p>
                           ₹ 24,999.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -574,18 +574,18 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
-                      <h2>2 Sittings for chosen planet</h2>
+                      {/* <h2>2 Sittings for chosen planet</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-center text-white font-bold text-lg rounded-full">
                         ₹ 5,555
                       </div> */}
 
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 5,555</p>
                           <p>25% off</p>
                           ₹ 4,166.25
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -645,17 +645,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
-                      <h2 className="font-semibold text-center">(1 Month)</h2>
+                      {/* <h2 className="font-semibold text-center">(1 Month)</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 22,222
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 22,222</p>
                           <p>25% off</p>
                           ₹ 16,666.50
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -715,21 +715,21 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h2>
+                      {/* <h2>
                         (Personal Energy Chart
                         <br /> will be Prepared)
-                      </h2>
+                      </h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white text-center font-bold text-lg rounded-full">
                         ₹ 5,555
                       </div> */}
 
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 5,555</p>
                           <p>25% off</p>
                           ₹ 4,166.25
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -789,17 +789,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h2 className="font-semibold ">(1 Month)</h2>
+                      {/* <h2 className="font-semibold ">(1 Month)</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 55,555
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 55,555</p>
                           <p>25% off</p>
                           ₹ 41,666.25
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -859,17 +859,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h2 className="text-center">3 Sittings</h2>
+                      {/* <h2 className="text-center">3 Sittings</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 7,777</p>
                           <p>25% off</p>
                           ₹ 5,832.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -929,17 +929,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
-                      <h2 className="font-semibold ">(1 Month)</h2>
+                      {/* <h2 className="font-semibold ">(1 Month)</h2> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 35,333
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 35,333</p>
                           <p>25% off</p>
                           ₹ 26,499.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1005,13 +1005,13 @@ function BookingSection() {
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 7,777</p>
                           <p>25% off</p>
                           ₹ 5,832.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1074,13 +1074,13 @@ function BookingSection() {
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 5,555
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 5,555</p>
                           <p>25% off</p>
                           ₹ 4,166.25
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1139,17 +1139,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      <h3>1 Sitting</h3>
+                      {/* <h3>1 Sitting</h3> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 7,777</p>
                           <p>25% off</p>
                           ₹ 5,832.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1213,13 +1213,13 @@ function BookingSection() {
                         ₹ 7,777
                       </div> */}
 
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 7,777</p>
                           <p>25% off</p>
                           ₹ 5,832.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1283,13 +1283,13 @@ function BookingSection() {
                         ₹ 7,777
                       </div> */}
 
-                      <div className="flex items-center mt-2 flex-col">
+                      {/* <div className="flex items-center mt-2 flex-col">
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           <p className="line-through">₹ 7,777</p>
                           <p>25% off</p>
                           ₹ 5,832.75
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div
@@ -1351,17 +1351,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" ">
-                      <p style={{ marginLeft: "10px" }}>Per Hour</p>
+                      {/* <p style={{ marginLeft: "10px" }}>Per Hour</p> */}
                       {/* <div className="bg-orange-500 px-4 py-2 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹1,111
                       </div> */}
-                       <div className="flex items-center mt-2 flex-col">
+                       {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                         <p className="line-through">₹ 1,111</p>
                         <p>25% off</p>
                         ₹ 833.25
                       </div>
-                    </div>
+                    </div> */}
                     </div>
                   </div>
                   <div
@@ -1423,17 +1423,17 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" ">
-                      <p style={{ marginLeft: "10px" }}>One Month</p>
+                      {/* <p style={{ marginLeft: "10px" }}>One Month</p> */}
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹32,500
                       </div> */}
-                       <div className="flex items-center mt-2 flex-col">
+                       {/* <div className="flex items-center mt-2 flex-col">
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                         <p className="line-through">₹ 32,500</p>
                         <p>25% off</p>
                         ₹ 24,375
                       </div>
-                    </div>
+                    </div> */}
                     </div>
                   </div>
                   <div
