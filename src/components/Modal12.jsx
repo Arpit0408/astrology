@@ -7,7 +7,7 @@ function Modal12() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Maa Baglamukhi healing',
-    amount: '5832.75',
+    amount: '7777',
     firstname: '',
     name: '',
     email: '',
