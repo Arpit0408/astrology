@@ -7,7 +7,7 @@ function Modal19() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Vastu healing',
-    amount: '5832.75',
+    amount: '7777',
     firstname: '',
     name: '',
     email: '',
