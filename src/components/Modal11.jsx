@@ -6,7 +6,7 @@ function Modal11() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Yogmaya',
-    amount: '41666.25',
+    amount: '55555',
     firstname: '',
     name: '',
     email: '',
