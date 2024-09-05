@@ -7,7 +7,7 @@ function Modal6() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Humkara with Haleem',
-    amount: '6666.00',
+    amount: '8888.00',
     firstname: '',
     name: '',
     email: '',
