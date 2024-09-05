@@ -7,7 +7,7 @@ function Modal13() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Vasudha Energy attachment',
-    amount: '6666.00',
+    amount: '7777.00',
     firstname: '',
     name: '',
     email: '',
