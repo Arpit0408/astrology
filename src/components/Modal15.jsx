@@ -7,7 +7,7 @@ function Modal15() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Holistic Treatement for Pregnancy',
-    amount: '5832.75',
+    amount: ' 7777',
     firstname: '',
     name: '',
     email: '',
