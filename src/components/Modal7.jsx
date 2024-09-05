@@ -6,7 +6,7 @@ function Modal7() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'MARKESH HEALINGS',
-    amount: '24999.75',
+    amount: '33333',
     firstname: '',
     name: '',
     email: '',
