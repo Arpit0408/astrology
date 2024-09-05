@@ -7,7 +7,7 @@ function Modal18() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Vasudha & kuber energy',
-    amount: '5832.75',
+    amount: '7777',
     firstname: '',
     name: '',
     email: '',
