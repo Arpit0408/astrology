@@ -6,7 +6,7 @@ import axios from 'axios';
 function Modal20() {
   const [formValues, setFormValues] = useState({
     productinfo: 'Maa kali Group Healings',
-    amount: '833.25',
+    amount: '1111',
     firstname: '',
     name: '',
     email: '',
