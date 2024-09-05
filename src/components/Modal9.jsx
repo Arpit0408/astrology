@@ -6,7 +6,7 @@ function Modal9() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Sade sati of shani vibration shifting',
-    amount: '16666.50',
+    amount: '22222',
     firstname: '',
     name: '',
     email: '',
