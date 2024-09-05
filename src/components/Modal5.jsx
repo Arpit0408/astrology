@@ -6,7 +6,7 @@ function Modal5() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'LAMAFERA',
-    amount: '1666.50',
+    amount: '2222',
     firstname: '',
     name: '',
     email: '',
