@@ -7,7 +7,7 @@ function Modal16() {
 
   const [formValues, setFormValues] = useState({
     productinfo: 'Course - Advance Tarot Programme',
-    amount: '5832.75',
+    amount: '7777',
     firstname: '',
     name: '',
     email: '',
