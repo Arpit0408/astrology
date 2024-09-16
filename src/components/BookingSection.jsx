@@ -23,6 +23,8 @@ import Modal20 from "./Modal20";
 import Modal21 from "./Modal21";
 // import Image from 'next/image'
 
+
+
 function BookingSection() {
   return (
     <>
@@ -190,8 +192,7 @@ function BookingSection() {
                   <div className="flex justify-between">
                     <div>
                       <h2 className="card-title text-2xl font-serif font-bold">
-                        Mediumship Reading With Pitradosh Removal Session (Pitra Paksha Offer)
-                      </h2>
+                      Mediumship Reading With Pitradosh Removal Session (Pitra Paksha Offer)                      </h2>
                       <div className="border-b-4 mb-2 border-yellow-400 w-36 h-1"></div>
                       <div className="rating ">
                         <input
@@ -504,7 +505,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      {/* <h2 className="font-semibold text-center">(1 Month)</h2> */}
+                      <h2 className="font-semibold text-center">(1 Month)</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full ">
                         ₹ 33,333
                       </div> */}
@@ -645,7 +646,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
-                      {/* <h2 className="font-semibold text-center">(1 Month)</h2> */}
+                      <h2 className="font-semibold text-center">(1 Month)</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 22,222
                       </div> */}
@@ -756,7 +757,7 @@ function BookingSection() {
                   <div className="flex justify-between">
                     <div>
                       <h2 className="card-title text-2xl font-serif font-bold">
-                        Yogmaya
+                        Yogmaya( wish fulfilment)
                       </h2>
                       <div className="border-b-4 mb-2 border-yellow-400 w-36 h-1"></div>
                       <div className="rating ">
@@ -789,7 +790,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      {/* <h2 className="font-semibold ">(1 Month)</h2> */}
+                      <h2 className="font-semibold ">( shifting for all nine planets)</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 55,555
                       </div> */}
@@ -859,7 +860,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      {/* <h2 className="text-center">3 Sittings</h2> */}
+                      <h2 className="text-center">2 Sittings</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
@@ -929,7 +930,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
-                      {/* <h2 className="font-semibold ">(1 Month)</h2> */}
+                      <h2 className="font-semibold ">(2 Month)</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 35,333
                       </div> */}
@@ -1139,7 +1140,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      {/* <h3>1 Sitting</h3> */}
+                      <h3>3 Sitting</h3>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
@@ -1279,6 +1280,8 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className=" flex-none">
+                    <h3>Duration 10 Days</h3>
+
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 7,777
                       </div> */}
@@ -1287,7 +1290,7 @@ function BookingSection() {
                         <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
                           {/* <p className="line-through">₹ 7,777</p>
                           <p>25% off</p> */}
-                          ₹ 7,777
+                          ₹12000
                         </div>
                       </div>
                     </div>
