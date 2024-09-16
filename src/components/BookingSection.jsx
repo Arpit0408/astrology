@@ -190,7 +190,7 @@ function BookingSection() {
                   <div className="flex justify-between">
                     <div>
                       <h2 className="card-title text-2xl font-serif font-bold">
-                        Mediumship
+                        Mediumship Reading With Pitradosh Removal Session (Pitra Paksha Offer)
                       </h2>
                       <div className="border-b-4 mb-2 border-yellow-400 w-36 h-1"></div>
                       <div className="rating ">
@@ -434,7 +434,7 @@ function BookingSection() {
                       </div>
                     </div>
                     <div className="flex-none ">
-                      {/* <h2 className="text-center">2 Sittings</h2> */}
+                      <h2 className="text-center">2 Sittings</h2>
                       {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white font-bold text-lg rounded-full">
                         ₹ 8,888
                       </div> */}
