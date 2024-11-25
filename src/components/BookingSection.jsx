@@ -21,7 +21,7 @@ import Modal18 from "./Modal18";
 import Modal19 from "./Modal19";
 import Modal20 from "./Modal20";
 import Modal21 from "./Modal21";
-import ModalFree from "./ModalFree";
+// import ModalFree from "./ModalFree";
 // import Image from 'next/image'
 
 
