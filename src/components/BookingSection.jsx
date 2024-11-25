@@ -21,6 +21,7 @@ import Modal18 from "./Modal18";
 import Modal19 from "./Modal19";
 import Modal20 from "./Modal20";
 import Modal21 from "./Modal21";
+import ModalFree from "./ModalFree";
 // import Image from 'next/image'
 
 
@@ -746,10 +747,10 @@ function BookingSection() {
                   </div>
                 </div>
               </div>
-
-
+            {/* {Another Card} */}
+            
 {/*               Another card for free webinar */}
-              <div className="card my-4 card-compact w-96 bg-base-100 shadow-2xl">
+<div className="card my-4 card-compact w-96 bg-base-100 shadow-2xl">
                 <figure>
                   <img src="/shivsakti.png" alt="card" />
                 </figure>
@@ -810,11 +811,9 @@ function BookingSection() {
                   </div>
                   <div
                     className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
-{/*                     onClick={() =>
-                      document.getElementById("my_modal_10").showModal()
-                    } */}
+                   
                   >
-                     <a
+                    <a
       href="https://exly.co/bipMMs" // Replace with your target URL
       target="_blank"
       rel="noopener noreferrer"
@@ -824,13 +823,13 @@ function BookingSection() {
                       Book Now{" "}
                     </div>
                     </a>
-{/*                     <Modal10 /> */}
+                    {/* <ModalFree /> */}
                   </div>
                 </div>
               </div>
 
 
-              
+
               {/* Another card */}
 
               <div className="card my-4 card-compact w-96 bg-base-100 shadow-2xl">
