@@ -746,6 +746,84 @@ function BookingSection() {
                   </div>
                 </div>
               </div>
+
+
+{/*               Another card for free webinar */}
+              <div className="card my-4 card-compact w-96 bg-base-100 shadow-2xl">
+                <figure>
+                  <img src="/shivsakti.png" alt="card" />
+                </figure>
+
+                <div className="card-body ml-4">
+                  <div className="flex justify-between">
+                    <div>
+                      <h2 className="card-title text-2xl font-serif font-bold">
+                      Shalvik with Shiva free webinar
+                      </h2>
+                      <div className="border-b-4 mb-2 border-yellow-400 w-36 h-1"></div>
+                      <div className="rating ">
+                        <input
+                          type="radio"
+                          name="rating-1"
+                          className="mask mask-star"
+                        />
+                        <input
+                          type="radio"
+                          name="rating-1"
+                          className="mask mask-star"
+                        />
+                        <input
+                          type="radio"
+                          name="rating-1"
+                          className="mask mask-star"
+                        />
+                        <input
+                          type="radio"
+                          name="rating-1"
+                          className="mask mask-star"
+                          checked
+                        />
+                        <input
+                          type="radio"
+                          name="rating-1"
+                          className="mask mask-star"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex-none ">
+                      {/* <h2>
+                        (Personal Energy Chart
+                        <br /> will be Prepared)
+                      </h2> */}
+                      {/* <div className="bg-orange-500 p-4 mr-4 mt-2 text-white text-center font-bold text-lg rounded-full">
+                        ₹ 5,555
+                      </div> */}
+
+                      <div className="flex items-center mt-2 flex-col">
+                        <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center rounded-full text-nowrap">
+                          {/* <p className="line-through">₹ 5,555</p>
+                          <p>25% off</p> */}
+                          Free
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
+                    onClick={() =>
+                      document.getElementById("my_modal_10").showModal()
+                    }
+                  >
+                    <div className="text-white p-1 font-semibold text-lg font-sans">
+                      Book Now{" "}
+                    </div>
+                    <Modal10 />
+                  </div>
+                </div>
+              </div>
+
+
+              
               {/* Another card */}
 
               <div className="card my-4 card-compact w-96 bg-base-100 shadow-2xl">
