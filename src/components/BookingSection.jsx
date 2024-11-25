@@ -814,10 +814,17 @@ function BookingSection() {
                       document.getElementById("my_modal_10").showModal()
                     }
                   >
+                     <a
+      href="https://exly.co/bipMMs" // Replace with your target URL
+      target="_blank"
+      rel="noopener noreferrer"
+      className="bg-blue-600 hover:cursor-pointer hover:bg-yellow-300 rounded flex justify-center"
+    >
                     <div className="text-white p-1 font-semibold text-lg font-sans">
                       Book Now{" "}
                     </div>
-                    <Modal10 />
+                    </a>
+{/*                     <Modal10 /> */}
                   </div>
                 </div>
               </div>
