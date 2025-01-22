@@ -95,7 +95,7 @@ function BookingSection() {
                       <div className="bg-orange-500 p-4 text-white font-bold text-lg text-center text-nowrap rounded-full">
                         {/* <p className="line-through">₹ 5,555</p> */}
                         {/* <p>25% off</p> */}
-                        ₹ 5,555
+                        ₹ 3100
                       </div>
                     </div> 
                   </div>
